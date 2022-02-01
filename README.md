@@ -1,3 +1,6 @@
+源于ayer theme 经过大幅度修改后的版本
+
+
 ```shell
 npm i hexo-theme-ayer -S
 ```
